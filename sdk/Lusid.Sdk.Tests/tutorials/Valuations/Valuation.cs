@@ -7,7 +7,7 @@ using Lusid.Sdk.Tests.Utilities;
 using Lusid.Sdk.Utilities;
 using NUnit.Framework;
 
-namespace Lusid.Sdk.Tests.Tutorials.Ibor
+namespace Lusid.Sdk.Tests.Tutorials.Valuations
 {
     [TestFixture]
     public class Valuations
